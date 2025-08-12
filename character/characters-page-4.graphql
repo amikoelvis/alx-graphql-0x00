@@ -1,5 +1,5 @@
 query {
-  characters(page: 1) {
+  characters(page: 4) {
     id
     name
     status
